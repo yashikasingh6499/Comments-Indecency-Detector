@@ -12,6 +12,7 @@ Customizable: The tokenizer class (PatternTokenizer) can be easily modified to a
 Usage:
 Input: The code takes raw text data from CSV files, processes the comment_text column, and outputs the cleaned and tokenized text.
 Output: The processed text is saved as CSV files, ready for further NLP tasks such as training machine learning models.
+
 Example:
 This repository includes a main() function that demonstrates how to use the PatternTokenizer to preprocess and save the train and test datasets.
 
