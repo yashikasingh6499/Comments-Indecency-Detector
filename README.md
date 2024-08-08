@@ -8,6 +8,7 @@ Emoji Handling: Converts emojis into descriptive text using the emoji library, a
 Repetition Removal: Reduces sequences of repeated characters to a single character to standardize the text.
 Tokenization and Lemmatization: Tokenizes the text into words and applies lemmatization to reduce words to their base forms. It also filters out common English stopwords.
 Customizable: The tokenizer class (PatternTokenizer) can be easily modified to adjust the patterns, filters, and preprocessing steps according to specific needs.
+
 Usage:
 Input: The code takes raw text data from CSV files, processes the comment_text column, and outputs the cleaned and tokenized text.
 Output: The processed text is saved as CSV files, ready for further NLP tasks such as training machine learning models.
