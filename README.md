@@ -15,7 +15,7 @@ Example:
 This repository includes a main() function that demonstrates how to use the PatternTokenizer to preprocess and save the train and test datasets.
 
 Dependencies:
-pandas
-nltk
-beautifulsoup4
-emoji
+1. pandas
+2. nltk
+3. beautifulsoup4
+4. emoji
